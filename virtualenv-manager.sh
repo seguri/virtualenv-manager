@@ -55,7 +55,6 @@ while getopts ":hil" opt; do
             install
             ;;
         l)
-            create
             activate
             list
             ;;
