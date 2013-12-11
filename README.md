@@ -1,4 +1,4 @@
 virtualenv-manager
 ==================
 
-quick script to manage a simple virtualenv
+Quick script to manage a simple virtualenv. Supports `pip install` through a `requirements.txt` file and `pip list`.
